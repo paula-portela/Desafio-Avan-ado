@@ -2,6 +2,7 @@ body {
   margin: 0;
   font-family: "Open Sans", sans-serif;
   background-color: #2C2B3D;
+  max-width : 100vw;
   min-height: 100vh;
 }
 
